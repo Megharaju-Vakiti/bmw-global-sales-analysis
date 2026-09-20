@@ -226,8 +226,10 @@ jupyter>=1.0.0
 
 **Megharaju Vakiti** — Data Analyst
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Megharaju%20Vakiti-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/megharaju-vakiti)
-[!\[GitHub](https://img.shields.io/badge/GitHub-Megharaju--Vakiti-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Megharaju-Vakiti)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Megharaju%20Vakiti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megharaju-vakiti-5705373a5)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Megharaju--Vakiti-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Megharaju-Vakiti)
 
 \---
 
