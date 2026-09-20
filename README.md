@@ -45,12 +45,12 @@ This project conducts a **deep-dive analytical study** of BMW's global automotiv
 
 > *Add your Power BI dashboard and Python plot screenshots here*
 
-Global Sales Trend 
-<img width="996" height="173" alt="Global_sales_trend" src="https://github.com/user-attachments/assets/4b3fadac-7d5b-4907-9116-bf18218c07b2" />
-Regional Revenue Map
-<img width="302" height="227" alt="image" src="https://github.com/user-attachments/assets/712ab5b5-5aab-41e8-ab16-3d2f798d68fa" />
-EV Adoption Curve
-<img width="343" height="234" alt="image" src="https://github.com/user-attachments/assets/a664f517-f97c-41f8-8ec9-3c8712045f2f" />
+| Global Sales Trend | Regional Revenue Map| EV Adoption Curve |
+|<img width="996" height="173" alt="Global_sales_trend" src="https://github.com/user-attachments/assets/4b3fadac-7d5b-4907-9116-bf18218c07b2" />|
+
+|<img width="302" height="227" alt="image" src="https://github.com/user-attachments/assets/712ab5b5-5aab-41e8-ab16-3d2f798d68fa" />|
+
+|<img width="343" height="234" alt="image" src="https://github.com/user-attachments/assets/a664f517-f97c-41f8-8ec9-3c8712045f2f" />|
 
 ---
 
