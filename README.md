@@ -228,8 +228,9 @@ jupyter>=1.0.0
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Megharaju%20Vakiti-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/megharaju-vakiti-5705373a5)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Megharaju--Vakiti-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Megharaju-Vakiti)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+91XXXXXXXXXX)
 
 \---
 
